@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name": "PHP Built-in WebServer",
-			"description": "display the console of PHP Built-in WebServer to Sublime Text 2",
+			"description": "Display the console of PHP Built-in WebServer in Sublime Text 2",
 			"author": "astronaughts",
 			"homepage": "http://github.com/astronaughts/SublimePHPBuiltinWebServer",
 			"last_modified": "2012-08-25 22:22:22",

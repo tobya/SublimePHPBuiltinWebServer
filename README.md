@@ -3,7 +3,7 @@ PHP Built-in WebServer
 
 ## Prerequisites
 
-* Built-in web server which works with PHP 5.4.x or more. (http://php.net/manual/en/features.commandline.webserver.php)
+* Built-in web server which works with PHP 5.4.x or above. (http://php.net/manual/en/features.commandline.webserver.php)
 
 ## Usage
 
